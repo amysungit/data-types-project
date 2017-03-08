@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Data Types Project
+## Data Types Structure
 
 *Default Structure for A Basic Project*
 
